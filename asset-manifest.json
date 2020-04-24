@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/smartbrian/static/css/main.aa16afc2.chunk.css",
+    "main.js": "/smartbrian/static/js/main.50463570.chunk.js",
+    "main.js.map": "/smartbrian/static/js/main.50463570.chunk.js.map",
+    "runtime-main.js": "/smartbrian/static/js/runtime-main.eae530f9.js",
+    "runtime-main.js.map": "/smartbrian/static/js/runtime-main.eae530f9.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/smartbrian/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.78af93ba.chunk.js": "/smartbrian/static/js/2.78af93ba.chunk.js",
+    "static/js/2.78af93ba.chunk.js.map": "/smartbrian/static/js/2.78af93ba.chunk.js.map",
+    "index.html": "/smartbrian/index.html",
+    "precache-manifest.4a03c751261e18de95c957bee36e11f6.js": "/smartbrian/precache-manifest.4a03c751261e18de95c957bee36e11f6.js",
+    "service-worker.js": "/smartbrian/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/smartbrian/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.aa16afc2.chunk.css.map": "/smartbrian/static/css/main.aa16afc2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eae530f9.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.78af93ba.chunk.js",
+    "static/css/main.aa16afc2.chunk.css",
+    "static/js/main.50463570.chunk.js"
+  ]
+}
